@@ -1,14 +1,11 @@
 <resources>
     <string name="app_name">Starter Project</string>
 
-    <string name="elevation_source_url">http://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer</string>
-    <string name="scene_layer_package_location">/ArcGIS/Samples/slpk/sandiego-north-balboa-pointcloud.slpk</string>
-    <string name="read_permission_denied_message">Could not create Point Cloud Layer as the read permission has denied.</string>
-    <string name="point_cloud_layer_load_failure_message">The PointCloudLayer has failed to load. Please ensure that the .slpk has been pushed to the device\'s storage.</string>
-    <string name="save">save</string>
-    <string name="show">show</string>
-
-    <string name="wildfire_geodatabase">wildfire.geodatabase</string>
-    <string name="wildfire_sync">https://sampleserver6.arcgisonline.com/arcgis/rest/services/Sync/WildfireSync/FeatureServer</string>
+    <string name="take_map_offline">Take Map Offline</string>
+    <string name="portal_url">https://www.arcgis.com</string>
+    <string name="item_id">acc027394bc84c2fb04d1ed317aac674</string>
+    <string name="offline_map_write_permission_denied">Write permission required to generate offline map</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
 
 </resources>

@@ -46,7 +46,8 @@ dependencies {
 
     //ArcGIs
     implementation 'com.esri.arcgisruntime:arcgis-android:100.5.0'
-    implementation 'com.esri.arcgis.android:arcgis-android:10.2.9'
+
+
 
 
 }
